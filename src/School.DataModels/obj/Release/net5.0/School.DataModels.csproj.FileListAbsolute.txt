@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\bin\Release\net5.0\School.DataModels.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\bin\Release\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\bin\Release\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\School.DataModels.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\School.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\School.DataModels.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\School.DataModels.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\School.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\refint\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.DataModels\obj\Release\net5.0\ref\School.DataModels.dll

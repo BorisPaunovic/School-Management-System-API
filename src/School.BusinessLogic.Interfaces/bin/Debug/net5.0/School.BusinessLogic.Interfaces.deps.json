@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "School.BusinessLogic.Interfaces/1.0.0": {
+        "dependencies": {
+          "School.BusinessModels": "1.0.0",
+          "School.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "School.BusinessLogic.Interfaces.dll": {}
+        }
+      },
+      "School.BusinessModels/1.0.0": {
+        "dependencies": {
+          "School.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "School.BusinessModels.dll": {}
+        }
+      },
+      "School.DataModels/1.0.0": {
+        "runtime": {
+          "School.DataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "School.BusinessLogic.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "School.BusinessModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "School.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

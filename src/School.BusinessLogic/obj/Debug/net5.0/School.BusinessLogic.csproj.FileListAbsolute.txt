@@ -1,0 +1,48 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.Interfaces.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Services.Interfaces.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.Interfaces.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Mapper.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Services.Interfaces.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\refint\School.BusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.BusinessLogic\obj\Debug\net5.0\ref\School.BusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.Interfaces.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Services.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Services.Interfaces.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessLogic.Interfaces.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Mapper.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Services.Interfaces.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.Services.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\bin\Debug\net5.0\School.BusinessModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\refint\School.BusinessLogic.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\School.BusinessLogic.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessLogic\obj\Debug\net5.0\ref\School.BusinessLogic.dll

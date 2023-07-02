@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\School.BusinessModels\School.BusinessModels.csproj" />
+    <ProjectReference Include="..\School.DataModels\School.DataModels.csproj" />
+  </ItemGroup>
+
+</Project>

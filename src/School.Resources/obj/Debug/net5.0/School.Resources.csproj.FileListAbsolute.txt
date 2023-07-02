@@ -1,0 +1,24 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\bin\Debug\net5.0\School.Resources.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\bin\Debug\net5.0\School.Resources.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\bin\Debug\net5.0\School.Resources.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\refint\School.Resources.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Resources\obj\Debug\net5.0\ref\School.Resources.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\bin\Debug\net5.0\School.Resources.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\bin\Debug\net5.0\School.Resources.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\bin\Debug\net5.0\School.Resources.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\refint\School.Resources.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\School.Resources.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Resources\obj\Debug\net5.0\ref\School.Resources.dll

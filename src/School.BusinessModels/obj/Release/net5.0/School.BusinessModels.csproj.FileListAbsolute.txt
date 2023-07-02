@@ -1,0 +1,15 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\bin\Release\net5.0\School.BusinessModels.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\bin\Release\net5.0\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\bin\Release\net5.0\School.BusinessModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\bin\Release\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\bin\Release\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\refint\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\School.BusinessModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.BusinessModels\obj\Release\net5.0\ref\School.BusinessModels.dll

@@ -1,0 +1,17 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\bin\Release\net5.0\School.Services.Interfaces.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\bin\Release\net5.0\School.Services.Interfaces.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\bin\Release\net5.0\School.Services.Interfaces.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\bin\Release\net5.0\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\bin\Release\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\bin\Release\net5.0\School.BusinessModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\bin\Release\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\refint\School.Services.Interfaces.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\School.Services.Interfaces.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Services.Interfaces\obj\Release\net5.0\ref\School.Services.Interfaces.dll

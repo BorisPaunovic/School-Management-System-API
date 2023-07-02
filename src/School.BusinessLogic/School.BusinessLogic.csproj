@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\School.BusinessLogic.Interfaces\School.BusinessLogic.Interfaces.csproj" />
+    <ProjectReference Include="..\School.DataModels\School.DataModels.csproj" />
+    <ProjectReference Include="..\School.Mapper\School.Mapper.csproj" />
+    <ProjectReference Include="..\School.Services.Interfaces\School.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\School.Services\School.Services.csproj" />
+  </ItemGroup>
+
+</Project>

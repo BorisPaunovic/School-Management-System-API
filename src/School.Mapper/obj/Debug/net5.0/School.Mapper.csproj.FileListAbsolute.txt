@@ -1,0 +1,34 @@
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\bin\Debug\net5.0\School.Mapper.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\bin\Debug\net5.0\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\bin\Debug\net5.0\School.Mapper.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\bin\Debug\net5.0\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\bin\Debug\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\bin\Debug\net5.0\School.BusinessModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\bin\Debug\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\refint\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Visual Studio Projects\School-API\src\School.Mapper\obj\Debug\net5.0\ref\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\bin\Debug\net5.0\School.Mapper.deps.json
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\bin\Debug\net5.0\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\bin\Debug\net5.0\School.Mapper.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\bin\Debug\net5.0\School.BusinessModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\bin\Debug\net5.0\School.DataModels.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\bin\Debug\net5.0\School.BusinessModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\bin\Debug\net5.0\School.DataModels.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\refint\School.Mapper.dll
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\School.Mapper.pdb
+C:\Users\Boris\Desktop\Programi\Visual Studio Apps\Portfolio\School-API\src\School.Mapper\obj\Debug\net5.0\ref\School.Mapper.dll
