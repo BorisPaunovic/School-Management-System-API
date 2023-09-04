@@ -22,7 +22,7 @@ namespace School_API.Controllers
         {
             try
             {
-                var students = _teachersBusinessLogic.SelectAllTeachers();
+                var students = _teachersBusinessLogic.SelectAllTeachersBL();
 
 
 
@@ -84,7 +84,7 @@ namespace School_API.Controllers
             }
 
         }
-        [HttpDelete]
+        [HttpDelete("{Id}")]
 
         public IActionResult DeleteTeacher(int Id)
         {

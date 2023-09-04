@@ -12,7 +12,7 @@ namespace School.DataModels.Models
         [Required]
         public int CountriesID { get; set; }
         [Required]
-        [StringLength(2,MinimumLength =2)]
+        [StringLength(2 )]
         public string ISO { get; set; }
         [Required]
         [StringLength(200)]
@@ -20,7 +20,7 @@ namespace School.DataModels.Models
         [Required]
         public int PhoneCode { get; set; }
         [Required]
-        [StringLength(3, MinimumLength = 3)]
+        [StringLength(3)]
         public string ISO3 { get; set; }
         [Required]
         public bool Deleted { get; set; }

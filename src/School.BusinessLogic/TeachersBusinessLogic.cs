@@ -257,7 +257,7 @@ namespace School.BusinessLogic
             }
             return TJCBL;
         }
-        public List<TeachersBL<Teachers>> SellectAllTeachers()
+        public List<TeachersBL<Teachers>> SellectAllTeachersBL()
         {
             List<Teachers> teachers = new List<Teachers>();
             teachers = SelectAllTeachers();

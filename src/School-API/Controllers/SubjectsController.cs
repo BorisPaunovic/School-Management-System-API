@@ -87,7 +87,7 @@ namespace School_API.Controllers
             }
 
         }
-        [HttpDelete]
+        [HttpDelete("{Id}")]
 
         public IActionResult DeleteCountry(int Id)
         {

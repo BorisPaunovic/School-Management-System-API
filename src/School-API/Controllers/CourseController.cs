@@ -85,9 +85,9 @@ namespace School_API.Controllers
             }
 
         }
-        [HttpDelete]
+        [HttpDelete("{Id}")]
 
-        public IActionResult DeleteCountry(int Id)
+        public IActionResult DeleteCourse(int Id)
         {
             try
             {
@@ -101,7 +101,7 @@ namespace School_API.Controllers
 
         }
         [HttpPut]
-        public IActionResult UpdateCountry(CoursesBL<Courses> coursesBL)
+        public IActionResult UpdateCourse(CoursesBL<Courses> coursesBL)
         {
 
             try
@@ -119,7 +119,7 @@ namespace School_API.Controllers
 
 
         [HttpPost("FilterByCourseName/{filter}")]
-        public IActionResult FilterByCountryName(List<CoursesBL<Courses>> courses, string filter)
+        public IActionResult FilterByCourseName(List<CoursesBL<Courses>> courses, string filter)
         {
             try
             {
