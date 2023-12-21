@@ -9,10 +9,12 @@ The School Management System API offers the following features:
 - **Students:** Endpoints to manage student information, including creating, retrieving, updating, and deleting student records.
 - **Teachers:** API endpoints for managing teacher details, such as creating, retrieving, updating, and deleting teacher profiles.
 - **Courses:** Endpoints to handle course management operations, including creating, retrieving, updating, and deleting courses.
-
+- **Coubtries:*Endpoints for managing coutries information : updating ,deleting, retrieving and deleting.
+- - **Subjects:*Endpoints for managing Subject information : updating ,deleting, retrieving and deleting.
+  - And the linking tables : CoursesSubjects,StudentsCourses,TeacherCourses
 Additional features include:
 
-- **Authentication and Authorization:** Secure endpoints using authentication and authorization mechanisms to control access to sensitive data and operations.
+- **Authentication and Authorization:**(In progress) Secure endpoints using authentication and authorization mechanisms to control access to sensitive data and operations.
 - **Validation and Error Handling:** Built-in validation and error handling mechanisms to ensure data integrity and provide meaningful error responses.
 - **Swagger Documentation:** Integration with Swagger UI for interactive API documentation, allowing easy exploration of available endpoints and testing of requests.
 
@@ -30,9 +32,13 @@ To set up the School Management System API on your local machine, follow these s
 
 ## Usage
 
-Once the School Management System API is up and running, you can make HTTP requests to interact with the various endpoints. Refer to the Swagger documentation or the API documentation for detailed information on the available endpoints, request formats, and response formats.
+Once the School Management System API is up and running, you can make HTTP requests to interact with the various endpoints. Refer to the Swagger documentation(when the api is running http://localhost:5000/swagger/index.html).
 
 To authenticate requests that require authorization, include the appropriate authentication token in the request headers.
+
+![Screenshot 2023-12-21 at 22-29-24 Swagger UI](https://github.com/BorisPaunovic/School-Management-System-API/assets/119711363/cf81f6a7-fa14-4ddd-986d-490c5d275628)
+
+Figure 1 Swager Documentation
 
 ## Contributing
 
@@ -51,6 +57,6 @@ The School Management System API project is released under the MIT License. You 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out. You can contact the project maintainers by opening an issue on the repository or sending an email to boris.paunovic2111@gmail.com.
+If you have any questions, suggestions, or feedback, please feel free to reach out. You can contact the project maintainers by opening an issue on the repository.
 
 Thank you for your interest in the School Management System API project. We hope it proves to be a valuable component for building your school management system!
